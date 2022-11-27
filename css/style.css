@@ -1,0 +1,11 @@
+html, body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(#adaddb #4d3535);
+}
+
+.main {
+    max-width: 100%;
+}
+
+origin = https://github.com/ChebanTetyana/group_101122.git
